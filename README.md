@@ -54,4 +54,4 @@ If successful, a text file will be generated with the ordered material. If unsuc
 - UserInterpreter
 2. "orderForm000.txt" and "orderForm001.txt," alongside other order forms, are available in the Project Files folder as examples of a succesful completion of the program.
 3. Each order form produced is unique. That is, pre-existing order forms will not be overwritten.
-4. The devpost for this project can be found here: https://devpost.com/software/re-claim. This includes a video demonstration.
+4. The devpost for this project can be found here: https://devpost.com/software/re-claim. This includes a video demonstration. However, a more thorough video demonstration can be found here: https://youtu.be/DbXZPtnCgH4.
