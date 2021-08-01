@@ -1,0 +1,13 @@
+Furniture Order Form
+
+Faculty Name: engg
+Contact: r
+Date: 2021/04/07
+
+Original Request: study lamp, 1
+
+Items Ordered
+ID: L223
+ID: L982
+
+Total Price: $10

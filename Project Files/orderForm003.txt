@@ -1,0 +1,13 @@
+Furniture Order Form
+
+Faculty Name: engg
+Contact: ruha
+Date: 2021/04/07
+
+Original Request: swing arm lamp, 1
+
+Items Ordered
+ID: L053
+ID: L096
+
+Total Price: $30
