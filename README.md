@@ -44,6 +44,11 @@ Upon running the code, the user will be prompted with a few questions for the Fa
 
 If successful, a text file will be generated with the ordered material. If unsuccessful, the user will be prompted with the appropriate manufacturers to contact through the terminal.
 
+# Possible Improvements
+
+1. Check integer input for large input numbers - the code currently throws a NumberFormatException with no feedback.
+2. Give the user more guidance on acceptable inputs for a better user experience.
+
 # Notes
 
 1. This program includes the following classes as well as a Unit test class for each (except for SupplyChainManagement):
